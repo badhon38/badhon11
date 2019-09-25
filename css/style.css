@@ -1,0 +1,484 @@
+/* autors name:badhon roy
+  autor info:support@badhonoffical.com;
+
+
+
+=======INDEX=======
+1.HOME
+2.ABOUT US
+3.OUR APPROCH
+4.OUR WORKS
+5.FREE CONSULATIONS
+
+===================
+  */
+
+/* GLOBAL CSS PART */
+
+
+header {
+  padding:0px 0 0px;
+}
+
+section {
+  padding: 150px 0;
+}
+
+.underline{
+border-bottom: 5px solid black;
+    display: block;
+    width: 12%;
+    margin: 10px auto;
+}
+
+
+
+/* COUSTOM CSS PART */
+
+
+
+/* FONTS-FILE START */
+.fonts-file {
+    background: #f0f2f4;
+    padding: 6px;
+    
+}
+.font-file{
+text-align: right;
+}
+.font-file a{
+	    padding: 0px 9px;
+    color: black;
+}
+.font-file a i{
+	
+}
+
+/* FONTS-FILE END*/
+
+/* nav-files start */
+
+.nav-new{
+    background: #ffff;
+}
+.nav-font li a{
+color: black;
+font-family: 'Roboto regular', serif;
+font-size: 12px;
+}
+.nav-font li a i{
+color: black;
+    font-size: 8px;
+    padding: 0px 10px;
+}
+.js-scroll-trigger.active{
+    background: #de2b24;
+    color: #fff;
+    border-radius: 11px;
+    padding: 6px 11px;
+}
+/* nav-files start */
+
+/* banner files-start */
+.banner-files{
+     width: 100%;
+    float: left;
+    padding: 25px 0px;
+    background: url(../img/banner.jpg);
+    background-size: cover;
+    height: auto;
+}
+
+.banner-files h1{
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    padding-top: 110px;
+    font-family: 'Roboto light', serif;
+    font-size: 72px;
+}
+.banner-files p{
+    margin: 0 auto;
+    text-align: center;
+    color: #ffff;
+    padding-top: 20px;
+    font-family: 'Roboto bold', serif;
+    font-size: 30px;
+}
+.banner-contain{
+    width: 100%;
+    margin: 0 auto;
+    float: left;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.btn-cust{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: #f8cd53;
+    color: #ffff;
+    border: none;
+        margin-bottom: 100px;
+}
+
+
+/* banner files-end */
+
+/* about files-start */
+.about{
+	
+}
+.about-contant{
+
+}
+.about-contant h2{
+	text-align: center;
+	padding-top: 60px;
+}
+.about-contant p{
+	text-align: center;
+}
+
+.one{
+	    margin: 0 auto;
+    text-align: center;
+    padding-top: 123px;
+}
+.one h3{
+    color: black;
+    padding-top: 20px;
+    font-family: 'Roboto bold', serif;
+    font-size: 30px;
+}
+.one p{
+font-family: 'Roboto light', serif;
+    font-size: 15px;
+}
+
+
+/*about files-end */
+
+
+/* approch files -start */
+
+.approch-files{
+	background-color: #f3f3f3;
+}
+
+.apch{
+
+margin-top: 120px;
+}
+
+.img-file{
+    position: relative;
+    background-color: #ffff;
+}
+
+.sub-img{
+    position: absolute;
+    background: #de2b24;
+    width: 100px;
+    height: 100px;
+    color: #ffff;
+    text-align: center;
+    top: 25%;
+    right: 0%;
+    border: 2px solid #ffff;
+}
+.sub-img-two{
+	  position: absolute;
+    background: #de2b24;
+    width: 100px;
+    height: 100px;
+    color: #ffff;
+    text-align: center;
+    top: 25%;
+    right: 48%;
+    border: 2px solid #ffff;
+}
+.cont-file h5{
+margin-top: 56px;
+}
+.cont-file p{
+
+}
+.cont-file{
+background-color: #fff;
+}
+
+/* approch files -end*/
+
+
+/* work files -start */
+.work-files{
+	background-color: #de2b24;
+}
+.underline-two{
+	border-bottom: 5px solid white;
+    display: block;
+    width: 12%;
+    margin: 10px auto;
+}
+
+.picture-file{
+    width: 100%;
+    background-color: #f6f9f9;
+    float: left;
+}
+
+	   
+.picture-tittle h2{
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+    color: #ffff;
+}
+.picture-tittle p{
+font-size: 20px;
+    padding-top: 10px;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+}
+.picture-one{
+      
+    margin: 44px 45px;
+}
+.picture-two{
+	 margin:-44px 45px;
+}
+
+
+/* work files -end */
+
+/* consul files-start */
+.consul-files{
+background-color: #1287bf;
+}
+
+.consul-tittle{
+
+}
+
+.consul-tittle h2{
+	 font-size: 40px;
+    font-family: 'Lato', sans-serif;
+    color: #ffff;
+}
+.consul-tittle p{
+	font-size: 20px;
+    padding-top: 10px;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+}
+.consul-tittle a i{
+	color: #fff;
+	    font-size: 75px;
+}
+
+/* consul files-end */
+
+
+/* social file-start */
+.social-network{
+background-color: #2a2a2a;
+}
+
+.icon-files{
+
+}
+
+.icon-files ul{
+	
+}
+.icon-files ul li{
+	display: inline-block;
+}
+
+.icon-files ul li a{
+	
+}
+.iconix{
+text-align: center;
+}
+.form-control{
+    background: #515151;
+}
+.btn-two{
+	background: transparent;
+    padding: 8px 18px;
+    border: 1px solid #f0f3f5;
+    color: #fff;
+    margin: 15px 215px;
+}
+.fa.fa-facebook{
+	padding: 15px 18px;
+	background-color: #2a2a2a;
+	color: #ffffff;
+	border-radius: 3px;
+	transition: 0.4s;
+}
+.fa.fa-facebook:hover{
+	box-shadow: 1px 0px 0px 2px red;
+}
+.fa.fa-twitter{
+	padding: 15px 15px;
+	background-color: #2a2a2a;
+	color: #ffffff;
+	border-radius: 3px;
+	transition: 0.4s;
+}
+.fa.fa-twitter:hover{
+	box-shadow: 1px 0px 0px 2px red;
+}
+.fa.fa-google-plus{
+	padding: 15px 13px;
+	background-color: #2a2a2a;
+	color: #ffffff;
+	border-radius: 3px;
+	transition: 0.4s;
+}
+.fa.fa-google-plus:hover{
+	box-shadow: 1px 0px 0px 2px red;
+}
+.fa.fa-linkedin{
+	padding: 15px 16px;
+	background-color: #2a2a2a;
+	color: #ffffff;
+	border-radius: 3px;
+	transition: 0.4s;
+}
+.fa.fa-linkedin:hover{
+	box-shadow: 1px 0px 0px 2px red;
+}
+
+
+/* social file-end */
+
+
+.footer-file{
+	background-color: #515151;
+	border-top: 2px ;
+}
+
+
+
+
+
+@media (min-width: 320px) and (max-width: 500px){
+.banner-files h1 {
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    padding-top: 0;
+    font-family: 'Roboto light', serif;
+    font-size: 62px;
+}
+.about-contant h2 {
+  text-align: center;
+    padding-top: 6px
+}
+.approch-files {
+    background-color: #f3f3f3;
+    padding: 60px 0;
+}
+.sub-img {
+    position: absolute;
+    background: #de2b24;
+    width: 100px;
+    height: 100px;
+    color: #ffff;
+    text-align: center;
+    top: -19%;
+    right: 35%;
+    border: 2px solid #ffff;
+}
+.sub-img-two {
+    position: absolute;
+    background: #de2b24;
+    width: 100px;
+    height: 100px;
+    color: #ffff;
+    text-align: center;
+    top: -8%;
+    right: 36%;
+    border: 2px solid #ffff;
+}
+.picture-one {
+    margin: 44px 1px;
+}
+.picture-two {
+    margin: -26px 1px;
+}
+
+.consul-tittle h2 {
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    color: #ffff;
+}
+
+
+.icon-files {
+    margin-top: -107px;
+}
+.btn-two {
+    background: transparent;
+    padding: 8px 18px;
+    border: 1px solid #ffff;
+    color: #fff;
+    text-align: center;
+    margin: 16px 81px;
+}
+}
+
+@media (min-width: 500.1px) and (max-width: 768px){
+
+.two{
+   background: #03A9F4;
+    color: #fff;
+    font-size: 75px;
+    /* padding: 3px 0px; */
+    text-align: center;
+    margin: 33px 176px;
+    position: relative;
+    z-index: 1; 
+}
+.btn-two{
+    background: transparent;
+    padding: 8px 18px;
+    border: 1px solid #15a4fa;
+    color: #fff;
+   margin-left: 223px;
+
+}
+.sub-img {
+    position: absolute;
+    background: #de2b24;
+    width: 100px;
+    height: 100px;
+    color: #ffff;
+    text-align: center;
+    top: 25%;
+    right: 26%;
+    border: 2px solid #ffff;
+}
+
+.picture-one {
+    margin: 44px 115px;
+}
+
+.picture-two {
+    margin: -26px 115px;
+}
+.btn-two {
+    background: transparent;
+    padding: 8px 18px;
+    border: 1px solid #ffffff;
+    color: #fff;
+    margin-left: 174px;
+    }
+@media (min-width: 768.1px) and (max-width: 1200px){
+
+
+}
